@@ -23,6 +23,9 @@ Fussgesteuerte Schleife ++
 
 <img width="1911" height="388" alt="4" src="https://github.com/user-attachments/assets/41e532b4-88ae-4faf-8a1c-2f7c39fcb932" />
 
+## Iteration 5
+Fallunterscheidung ++
 
+<img width="949" height="452" alt="5" src="https://github.com/user-attachments/assets/6cf128ff-22a3-44dc-9588-5cfe49ec76c2" />
 
 
